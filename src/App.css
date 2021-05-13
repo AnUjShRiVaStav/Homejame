@@ -1,0 +1,31 @@
+.App {
+    
+    background-image: url('https://tubestatic.orf.at/static/images/site/tube/20181043/ohne-titel-2.5814201.jpg');
+     position: relative;  
+    background-size: cover;  
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+     background-position: center; 
+    max-height: 100%;
+    color: white;
+   
+}
+
+.Container {
+    max-width: 440px;
+    font-family: 'Merriweather', serif;
+    font: optional;
+    /* color: blanchedalmond; */
+    font-weight: 100;
+    margin-top: 200px;
+    margin-left: 40px;
+     
+}
+
+.progressbar {
+    position: center;
+    margin-top: 60px;
+    color: transparent;
+    display: flex;   
+    
+}

@@ -1,0 +1,74 @@
+@media only screen and (max-width: 400px){
+
+    .App {
+    
+        background-image: url('https://tubestatic.orf.at/static/images/site/tube/20181043/ohne-titel-2.5814201.jpg');
+         position: relative;  
+        background-size: cover;  
+        background-repeat: no-repeat, repeat;
+        width: 100%;
+         background-position: center; 
+        max-height: 100%;
+        color: white;
+       
+    }
+    
+    .Container {
+        max-width: 440px;
+        font-family: 'Merriweather', serif;
+        font: optional;
+        /* color: blanchedalmond; */
+        font-weight: 100;
+        margin-top: 200px;
+        margin-left: 40px;
+         
+    }
+    
+    .progressbar {
+        position: center;
+        margin-top: 60px;
+        color: transparent;
+        display: flex;   
+        
+    }
+    
+    .Cards {  
+        padding-top: 50px;
+        padding-left: 70px;
+        box-shadow: pink;
+        width: 100%;
+        background-color: rgb(20, 20, 44);
+        display: inline-block;
+        color: white;
+        font-family: 'Merriweather', serif;
+    }
+    .card-img-top {
+        width: 100%;
+        object-fit: cover;
+    }
+    
+    
+    
+    .button{
+        color:black;
+        background-color: yellow;
+    }
+
+    .review {
+        padding-top: 80px;
+        padding-left: 70px;
+         width: 100%;
+         background-color: rgb(20, 20, 44);
+         color: white;
+         font-family: 'Merriweather', serif;
+     }
+      
+     .review_ {
+         padding-top: 50px;
+         text-align: center;
+         display: flex;
+         padding-bottom: 100px;
+     }
+     
+    
+}

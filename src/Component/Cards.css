@@ -1,0 +1,21 @@
+.Cards {  
+    padding-top: 50px;
+    padding-left: 70px;
+    box-shadow: pink;
+    width: 100%;
+    background-color: rgb(20, 20, 44);
+    display: inline-block;
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+.card-img-top {
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+.button{
+    color:black;
+    background-color: yellow;
+}
